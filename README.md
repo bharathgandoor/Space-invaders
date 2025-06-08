@@ -19,7 +19,6 @@ pip install pygame
 Clone the repository or download the script file:
 
 git clone https://github.com/bharathgandoor/Space-invaders.git
-cd [repository_directory]
 
 **2. Run the Game**
 
